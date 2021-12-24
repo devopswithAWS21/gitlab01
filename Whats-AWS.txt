@@ -1,7 +1,9 @@
 Cloud computing resources 
+ - Networking 
  - Compute
  - Storage
- - Networking 
 
-Manageable through a Dashboard or
-alternatively—through various APIs for compute, orchestration, object storage, and the like.
+Manageable through 
+- a Dashboard or
+- through APIs 
+
